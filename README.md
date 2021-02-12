@@ -22,15 +22,25 @@ We initially had 18 features. Some have been aggregated into a single feature (f
 been eliminated. The dataset we have reached therefore has the following features:
 
 • **tpep_pickup_datetime**: Starting date and time of the taxi ride
+
 • **tpep_dropoff_datetime**: Ending date and time of the taxi ride
+
 • **passenger_count**: number of passengers in the taxi
+
 • **trip_distance**: distance (in miles) covered by taxi ride
+
 • **PULocationID**: starting location of the ride (1: Manhattan, 0: Brooklyn)
+
 • **DOLocationID**: ending location of the ride (1: Manhattan, 0: Brooklyn)
+
 • **payment_type**: cash (1) or card (2)
+
 • **tip_amount**: total amount of the tip
+
 • **total_amount**: total cost of the ride for the passenger
+
 • **time_distance**: time occurred during the ride
+
 • **speed**: mean speed of the ride (miles/h)
 
 ## Files descriptions
@@ -43,6 +53,9 @@ The directory of this homework consists of one file:
 **Project made by:**
 
 Tommaso Berritto
+
 Laura Monzo
+
 Antonio Rocca
+
 Elisa Valeriani
